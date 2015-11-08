@@ -1,0 +1,11 @@
+Neural Network in Haskell -- Framework and Algorithms. 
+
+To use, run *Example.hs in your Terminal  
+
+The examples teach the network the XOR function using respective algorithms. 
+
+bp.hs - Backpropagation Algorithm - http://en.wikipedia.org/wiki/Backpropagation -
+works well! 
+
+lm.hs - Levenberg Marquardt Algorithm - http://en.wikipedia.org/wiki/Levenberg-Marquardt_algorithm - still working out bugs. 
+
